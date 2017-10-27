@@ -4,3 +4,6 @@
 
 
 http://wiki.jikexueyuan.com/project/rails-practice/
+
+
+https://ruby-china.github.io/rails-guides/getting_started.html
