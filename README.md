@@ -17,3 +17,6 @@ https://stackoverflow.com/questions/9336596/rvm-installation-not-working-rvm-is-
 
 ubuntu 安装subl
 sudo apt update && sudo apt install sublime-text
+
+vim使用方法
+http://www.cnblogs.com/emanlee/archive/2011/11/10/2243930.html
