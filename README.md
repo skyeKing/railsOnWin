@@ -13,3 +13,7 @@ https://ruby-china.github.io/rails-guides/getting_started.html
 
 解决rvm is not a func 的问题
 https://stackoverflow.com/questions/9336596/rvm-installation-not-working-rvm-is-not-a-function
+
+
+ubuntu 安装subl
+sudo apt update && sudo apt install sublime-text
